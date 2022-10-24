@@ -1,4 +1,4 @@
-# c-convert-image-to-text-
+# c-convert-image-to-text
 
 
 TR:
